@@ -1,0 +1,5 @@
+cargo new xxx
+cd xxx
+go mod init TourOfGo/xxx
+go build
+cargo run
