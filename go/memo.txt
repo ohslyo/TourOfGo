@@ -1,0 +1,8 @@
+go mod init TourOfGo/go/basic/Exported-names
+go mod init TourOfGo/go/basic/Functions
+go mod init TourOfGo/go/basic/Functions-continued
+go mod init TourOfGo/go/basic/Imports
+go mod init TourOfGo/go/basic/Multiple-results
+go mod init TourOfGo/go/basic/Packages
+
+go build
