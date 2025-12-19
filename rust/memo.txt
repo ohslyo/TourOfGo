@@ -6,6 +6,7 @@ cargo new Functions-continued
 cargo new Imports
 cargo new Multiple-results
 cargo new Packages
-cargo nwe Named-return-values
+cargo new Named-return-values
+cargo new Variables
 
 cargo run

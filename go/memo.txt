@@ -9,4 +9,8 @@ mkdir .\go\basic\Named-return-values
 cd go\basic\Named-return-values
 go mod init TourOfGo/go/basic/Named-return-values
 
+mkdir .\go\basic\Variables
+cd go\basic\Variables
+go mod init TourOfGo/go/basic/Variables
+
 go build
