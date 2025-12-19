@@ -5,4 +5,8 @@ go mod init TourOfGo/go/basic/Imports
 go mod init TourOfGo/go/basic/Multiple-results
 go mod init TourOfGo/go/basic/Packages
 
+mkdir .\go\basic\Named-return-values
+cd go\basic\Named-return-values
+go mod init TourOfGo/go/basic/Named-return-values
+
 go build

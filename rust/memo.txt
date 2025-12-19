@@ -1,8 +1,11 @@
+cd C:\Users\oohashi\go\src\TourOfGo\rust\basic
+
 cargo new Exported-names
 cargo new Functions
 cargo new Functions-continued
 cargo new Imports
 cargo new Multiple-results
 cargo new Packages
+cargo nwe Named-return-values
 
 cargo run
