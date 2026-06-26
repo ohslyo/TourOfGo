@@ -1,2 +1,3 @@
 **/target/
 **/*.exe
+go/bin/app

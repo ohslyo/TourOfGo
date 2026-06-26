@@ -2,4 +2,4 @@ mkdir .\go\basic\Short-variable-declarations
 cd go\basic\Short-variable-declarations
 go mod init TourOfGo/go/basic/Short-variable-declarations
 
-go build
+go build -o ../../bin/app
