@@ -9,5 +9,6 @@ cargo new Packages
 cargo new Named-return-values
 cargo new Variables
 cargo new Variables-with-initializers
+cargo new Short-variable-declarations
 
 cargo run
